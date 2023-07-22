@@ -28,7 +28,7 @@ JSP를 이용한 CRUD 구현
 1. [MySQL Connection 확인](https://www.notion.so/MySQL-JSP-c28926f41bb3484fa71ed2d06b9c002f?pvs=4)
 2. [CRUD 쿼리](https://www.notion.so/DATABASE-5e008cbd6ef74b40ac5e813749f490be?pvs=4#cdae2d8f731345a985eabfab16b27bc8)
 ---
-### 230718
+### 230719
 Servlet을 이용한 더하기 기능이 있는 Web
 
 [code](https://github.com/JeongBin0462/study/tree/master/230720_0_Sum)
