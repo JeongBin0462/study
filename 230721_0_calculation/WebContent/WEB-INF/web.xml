@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd" version="4.0">
+  <display-name>230721_0_calculation</display-name>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+    <welcome-file>index.htm</welcome-file>
+    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>default.html</welcome-file>
+    <welcome-file>default.htm</welcome-file>
+    <welcome-file>default.jsp</welcome-file>
+  </welcome-file-list>
+  
+  <filter>
+  	<filter-name>CountingFilter</filter-name>
+  	<filter-class>filter.CountingFilter</filter-class>
+  </filter>
+  
+  <filter-mapping>
+  	<filter-name>CountingFilter</filter-name>
+  	<url-pattern>/number/*</url-pattern>
+  </filter-mapping>
+  
+  <filter>
+  	<filter-name>NumberFilter</filter-name>
+  	<filter-class>filter.NumberFilter</filter-class>
+  </filter>
+  
+  <filter-mapping>
+  	<filter-name>NumberFilter</filter-name>
+  	<url-pattern>/number/*</url-pattern>
+  </filter-mapping>
+</web-app>
