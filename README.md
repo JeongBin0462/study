@@ -36,3 +36,14 @@ Servlet을 이용한 더하기 기능이 있는 Web
 사용한 개념
 1. [MVC Pattern](https://www.notion.so/MVC-860ef139579a4204b298e801f5aadd8f?pvs=4)
 2. [Servlet](https://www.notion.so/Servlet-5565052a77b24562a977fac5c444a786?pvs=4)
+---
+### 230720
+19일 web에 빼기 기능을 추가하고 session에 시행 횟수를 기록하는 web
+
+[code](https://github.com/JeongBin0462/study/tree/master/230721_0_calculation)
+
+사용한 개념
+1. [MVC Pattern](https://www.notion.so/MVC-860ef139579a4204b298e801f5aadd8f?pvs=4)
+2. [Servlet](https://www.notion.so/Servlet-5565052a77b24562a977fac5c444a786?pvs=4)
+3. [Filter](https://www.notion.so/Filter-0b842e94f2064eb38a696364240fda55?pvs=4)
+
