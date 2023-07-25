@@ -53,5 +53,5 @@ RESTful coffee 웹
 [code](ㅇㅇㅇㅇ)
 
 사용한 개념
-1. [오류페이지]([https://www.notion.so/MVC-860ef139579a4204b298e801f5aadd8f?pvs=4])
-2. [REST API]([https://www.notion.so/Servlet-5565052a77b24562a977fac5c444a786?pvs=4])
+1. [오류페이지](https://www.notion.so/23c247a4ceb04a7eb142e63c7a82bd86?pvs=4)
+2. [REST API](https://www.notion.so/REST-API-9ccab35600574d00af4b748e591f4837?pvs=4)
