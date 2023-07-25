@@ -48,7 +48,7 @@ Servlet을 이용한 더하기 기능이 있는 Web
 3. [Filter](https://www.notion.so/Filter-0b842e94f2064eb38a696364240fda55?pvs=4)
 ---
 ### 230724
-RESTful coffee 웹
+RESTful형식으로 만들어 본 coffee 웹
 
 [code](ㅇㅇㅇㅇ)
 
