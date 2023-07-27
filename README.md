@@ -50,7 +50,7 @@ Servlet을 이용한 더하기 기능이 있는 Web
 ### 230724
 RESTful형식으로 만들어 본 coffee 웹
 
-[code](https://github.com/JeongBin0462/study/tree/master/230721_1)
+[code](https://github.com/JeongBin0462/study/tree/master/230725_0_coffee)
 
 사용한 개념
 1. [오류페이지](https://www.notion.so/23c247a4ceb04a7eb142e63c7a82bd86?pvs=4)
