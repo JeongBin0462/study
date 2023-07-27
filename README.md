@@ -57,7 +57,7 @@ RESTful형식으로 만들어 본 coffee 웹
 2. [REST API](https://www.notion.so/REST-API-9ccab35600574d00af4b748e591f4837?pvs=4)
 3. ---
 ### 230726
-RESTful형식으로 만들어 본 coffee 웹
+지정된 범위 내로 숫자가 증가/감소하는 버튼을 JS로 구현
 
 [code](https://github.com/JeongBin0462/study/tree/master/230726_1_number)
 
