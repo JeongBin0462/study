@@ -55,3 +55,12 @@ RESTful형식으로 만들어 본 coffee 웹
 사용한 개념
 1. [오류페이지](https://www.notion.so/23c247a4ceb04a7eb142e63c7a82bd86?pvs=4)
 2. [REST API](https://www.notion.so/REST-API-9ccab35600574d00af4b748e591f4837?pvs=4)
+3. ---
+### 230726
+RESTful형식으로 만들어 본 coffee 웹
+
+[code](https://github.com/JeongBin0462/study/tree/master/230726_1_number)
+
+사용한 개념
+1. [DOM(문서객체모델)](https://www.notion.so/DOM-c60fc916433243efa7a6ad0819026f15?pvs=4)
+2. [event](https://www.notion.so/event-8aff7deb1fa845a78bc4a58fe0b95a8f?pvs=4)
