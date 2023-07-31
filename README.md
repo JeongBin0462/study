@@ -55,7 +55,7 @@ RESTful형식으로 만들어 본 coffee 웹
 사용한 개념
 1. [오류페이지](https://www.notion.so/23c247a4ceb04a7eb142e63c7a82bd86?pvs=4)
 2. [REST API](https://www.notion.so/REST-API-9ccab35600574d00af4b748e591f4837?pvs=4)
-3. ---
+---
 ### 230726
 지정된 범위 내로 숫자가 증가/감소하는 버튼을 JS로 구현
 
@@ -64,3 +64,12 @@ RESTful형식으로 만들어 본 coffee 웹
 사용한 개념
 1. [DOM(문서객체모델)](https://www.notion.so/DOM-c60fc916433243efa7a6ad0819026f15?pvs=4)
 2. [event](https://www.notion.so/event-8aff7deb1fa845a78bc4a58fe0b95a8f?pvs=4)
+---
+### 230728
+json형태로 아이디 저장 / 아이디 중복 체크 / 다른 서버에 저장된 데이터에 접근 / 버튼 동적 활성화
+
+[code](https://github.com/JeongBin0462/study/tree/master/230728_0_t)
+
+사용한 개념
+1. [JSON](https://www.notion.so/jackson-14dee9e8091a4d79848bac73954512f9?pvs=4)
+2. [CORS Filter](https://www.notion.so/CORS-Filter-cacb2e961a8c4e7aa6b5a7f73f6a6b2c?pvs=4)
